@@ -16,11 +16,12 @@ There are several tools available for training and deployment, each with strengt
 ## Data
 When training the models to recognize drones, two sets of data was used.
 1. 4 Classigication categories
-        Drone       [drone.zip](https://ibm.box.com/shared/static/791dk2hzl9cw1ibl0ov43kvkhqq268ys.zip)
-        Bird        [bird.zip](https://ibm.box.com/shared/static/pd4xfya67le03flczwrpbgut1imk4quc.zip)
-        Plane       [plane.zip](https://ibm.box.com/shared/static/fjforuepnopbuyl8bov9w85ifhrk5w1t.zip)
-        Negative    [negative.zip](https://ibm.box.com/shared/static/squt4108edtnfzkohlw3fgz7ladmklvg.zip)
-        
+
+    * Drone:       [drone.zip](https://ibm.box.com/shared/static/791dk2hzl9cw1ibl0ov43kvkhqq268ys.zip)
+    * Bird:        [bird.zip](https://ibm.box.com/shared/static/pd4xfya67le03flczwrpbgut1imk4quc.zip)
+    * Plane:       [plane.zip](https://ibm.box.com/shared/static/fjforuepnopbuyl8bov9w85ifhrk5w1t.zip)
+    * Negative:    [negative.zip](https://ibm.box.com/shared/static/squt4108edtnfzkohlw3fgz7ladmklvg.zip)
+      
         
         
 2. Binary Drone or not Drone classifier:  [drone_data.tar](https://ibm.box.com/shared/static/63z8hr199bcw4wt5k577v9zh0ttxuvqf.tar)
